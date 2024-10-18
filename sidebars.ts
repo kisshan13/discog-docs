@@ -29,7 +29,11 @@ const sidebars: SidebarsConfig = {
     {
       type: "category",
       label: "Advanced Features",
-      items: ["advanced-features/af1"],
+      items: [
+        "advanced-features/af1",
+        "advanced-features/af2",
+        "advanced-features/af3",
+      ],
     },
   ],
 };

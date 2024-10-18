@@ -14,7 +14,7 @@ sidebar_position: 1
 
 ## Why discog ?
 
-Discog provides a better way to build discord bot using discord go offical bindings. And it's fully flexible you can use [discordgo](github.com/bwmarrin/discordgo) at anywhere you want while building your bot. 
+Discog provides a better way to build discord bot using discord go offical bindings. And it's fully flexible you can use [discordgo](https://github.com/bwmarrin/discordgo) at anywhere you want while building your bot. 
 
 ## Project Setup
 
